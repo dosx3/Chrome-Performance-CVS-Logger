@@ -1,6 +1,6 @@
 Chrome Performance CVS Logger (Extension)
+=========================================
 Copyright (c) 2014 Lukas Schwoebel <lukeschwoebel@gmail.com>
-==========================
 
 Receives logged CPU and memory data from the Extension, loggs it into a selected CSV file.
 Start logging manually by selecting a CSV file, stop it by closing the App's popup window.

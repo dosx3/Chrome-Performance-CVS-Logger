@@ -1,6 +1,6 @@
 Chrome Performance CVS Logger (Extension)
+=========================================
 Copyright (c) 2014 Lukas Schwoebel <lukeschwoebel@gmail.com>
-==========================
 
 Monitor Google Chrome's CPU and memory usage. Accumulates the CPU load and memory consumptions of
 the browser including all plugins and tabs (excluding running extensions/apps).

@@ -1,6 +1,6 @@
 Chrome Performance CVS Logger
+=============================
 Copyright (c) 2014 Lukas Schwoebel <lukeschwoebel@gmail.com>
-==========================
 
 Project containing an Extension and App that work together in the logging process:
 * The extension captures/monitors the CPU load/memory consumption of all processes
