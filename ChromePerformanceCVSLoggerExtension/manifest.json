@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome Performance CVS Logger (Extension)",
+  "version": "1",
+  "description": "Monitors Chrome's CPU and memory usage, hands it over to the corresponding App to log it",
+  "permissions": [
+    "processes",
+    "tabs"
+  ],
+  "background": {
+    "page" : "processmonitor.html"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome Performance CVS Writer App",
+  "version": "1",
+  "description": "App to access user's filesystem and write measurements into CSV file",
+  "permissions": [
+	{"fileSystem": ["write", "retainEntries", "directory"]}, "storage", "syncFileSystem"
+  ],
+  "offline_enabled":true,
+  "app": {
+    "background": {
+      "scripts": ["initialising.js"]
+    }
+ }
+}
